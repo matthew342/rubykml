@@ -231,7 +231,6 @@ def generateKml(outputFilename, name, alpha, altitudeModeValue, polygons, polygo
   
 end
 
-
 def genIdHash(dataHash)
   idHash = Hash.new()
   dataHash.each_value {|value| 
