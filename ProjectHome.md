@@ -1,0 +1,1 @@
+A set of Ruby functions to generate KML files by parsing US Census boundary files and applying data inputs to generate 3D data visualization in Google Earth. The functions support many of the KML 2.1 features, 2000 - 1990 US Census boundary files, and Federal Elections Commision data files.
